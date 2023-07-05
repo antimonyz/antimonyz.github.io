@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shubo Zhang / Site Title"
+title                    : "Shubo's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhang, Shubo"
+description              : &description "PhD candidate at NTU, Singapore"
 url                      : https://antimonyz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antimonyz.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "antimonyz"
   google_plus      :
   keybase          :
   instagram        :
