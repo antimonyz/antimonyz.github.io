@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2013
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Theoretical and Applied Mechanics, USTC, 2020
+* B.S. in Chemistry, USTC, 2020
+* Ph.D in Mechanical Engineering, NTU, 2025 (expected)
 
 Work experience
 ======
